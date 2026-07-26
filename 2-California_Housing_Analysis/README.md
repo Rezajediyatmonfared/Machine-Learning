@@ -157,5 +157,6 @@ California-Housing-Analysis/
 │
 ├── California_Housing_Analysis.ipynb
 ├── housing.csv
+├── Requirment.txt
 └── README.md
 
